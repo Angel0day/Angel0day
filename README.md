@@ -33,7 +33,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Angel0day?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
